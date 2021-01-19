@@ -1,13 +1,13 @@
 {
-    "name": "munafio/chatify",
+    "name": "lafree777/chat",
     "description": "A package for Laravel PHP Framework to add a complete real-time chat system.",
     "type": "library",
     "keywords": ["laravel", "messenger", "conversations", "chat", "php", "pusher", "realtime", "real-time"],
-    "license": "MIT",
+    "license": "",
     "authors": [
         {
-            "name": "Munaf A. Mahdi",
-            "email": "munafaqeelmahdi@gmail.com"
+            "name": "",
+            "email": ""
         }
     ],
     "minimum-stability": "dev",
