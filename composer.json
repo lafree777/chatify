@@ -10,7 +10,7 @@
             "email": "name@mail.ru"
         }
     ],
-    "minimum-stability": "dev",
+    "dev": "dev",
     "require": {
         "pusher/pusher-php-server": "^4.0"
     },
