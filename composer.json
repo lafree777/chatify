@@ -6,8 +6,8 @@
     "license": "",
     "authors": [
         {
-            "name": "",
-            "email": ""
+            "name": "name",
+            "email": "name@mail.ru"
         }
     ],
     "minimum-stability": "dev",
